@@ -17,7 +17,8 @@ El repositorio estara dividido en folders corespondiente a cada curso tomado de 
 13. Passport
 14. BackFrontend
 15. Git y Github
-=====================================================================================
+_______________________________________________________________________________________
+
 Estos a su vez estaran dividido conforme el curso lo requiera, pero no se incluira
 formatos npm y complementos parecidos para no hacer pesado el repositorio.
 
